@@ -1,3 +1,3 @@
 #Simple Mini Calculator
 
-Basic Calculator made with eval()
+Check it out here: https://shabbycodes.github.io/Calculator/
